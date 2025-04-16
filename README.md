@@ -1,3 +1,6 @@
+> [!WARNING]
+> Moved to https://codeberg.org/asdil12/Eprom-27c512-27c256
+
 Basic eprom programmer using Arduino Nano.
 
 This is the Arduino scetch needed for an Eprom programmer for 27C256 and 27C512 Eprom chips.
